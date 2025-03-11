@@ -43,10 +43,10 @@ At a minimum, teams are expected to develop clickable mockups that demonstrate u
 <p =align="center">
 <table border="0">
 <tr>
-  <td align="center"><img src="https://github.com/START-Hack/SIX_STARTHACK24/assets/128060007/9069e726-510a-40f1-a6f2-0a5694f5fb2f" /> </td>
-  <td align="center"><img src="https://github.com/user-attachments/assets/9a6374e0-4f6e-4f2a-936d-b6dcc4085701" /> </td>
-  <td align="center"><img src=" " /> </td>
-  <td align="center"><img src="https://github.com/user-attachments/assets/155519c4-608d-414d-9d1a-665c770f4348" /> </td>
+  <td align="center"><img src="https://github.com/START-Hack/SIX_STARTHACK24/assets/128060007/9069e726-510a-40f1-a6f2-0a5694f5fb2f" width="220" height="240"/> </td>
+  <td align="center"><img src="https://github.com/user-attachments/assets/9a6374e0-4f6e-4f2a-936d-b6dcc4085701" width="220" height="240"/> </td>
+  <td align="center"><img src="https://github.com/user-attachments/assets/d8884d30-0370-4106-98a2-356479b7d6d0" width="220" height="240"/> </td>
+  <td align="center"><img src="https://github.com/user-attachments/assets/155519c4-608d-414d-9d1a-665c770f4348" width="220" height="240"/> </td>
 </tr>
 <tr>
   <td align="center">Jennifer Chang</td>
