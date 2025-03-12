@@ -23,8 +23,10 @@ At a minimum, teams are expected to develop clickable mockups that demonstrate u
 [Link to the video pitch]
 
 ## <p align="center"> Deep Dive Slides: </p>
+<p align="center">
+  <a href="https://github.com/user-attachments/files/19206754/STARTHack_SIX_Case_DeepDiveSlides.pdf" target="_blank">SIX Deep Dive Slides</a>
+</p>
 
-<p align="center">  </p>
 
 ## <p align="center"> Judging Criteria: </p>
 ●	Creativity & Innovation (30%) - out of box thinking and innovative use of technology 
