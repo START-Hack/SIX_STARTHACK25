@@ -20,7 +20,9 @@ At a minimum, teams are expected to develop clickable mockups that demonstrate u
 
 
 ## <p align="center"> The Pitch: </p>
-[Link to the video pitch]
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=7A9EtcrO744" target="_blank">Pitch Video</a>
+</p>
 
 ## <p align="center"> Deep Dive Slides: </p>
 <p align="center">
