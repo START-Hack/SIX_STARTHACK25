@@ -1,10 +1,11 @@
-# <p align="center"> Innovative Human-AI Interaction for Financial Data Insight </p>
+<p align="center"> Innovative Human-AI Interaction for Financial Data Insight </p>
 
 ![Image_Github1](https://github.com/user-attachments/assets/3055e359-05a4-42dc-ac6b-e227338ed49c)
 
 # <p align="center"> Who are we? </p>
 ![Image_Github2](https://github.com/user-attachments/assets/c6f73707-3881-4e26-b60b-aad595c78d69)
-![image](https://github.com/user-attachments/assets/c8a9e916-fb29-40cf-87c0-3d52cd75b713)
+![image](https://github.com/user-attachments/assets/58f10287-4807-4ad5-9c48-f2fe02038f9c)
+
 
 
 
@@ -27,7 +28,7 @@ At a minimum, teams are expected to develop clickable mockups that demonstrate u
 
 ## <p align="center"> Deep Dive Slides: </p>
 <p align="center">
-  <a href="https://github.com/user-attachments/files/19206754/STARTHack_SIX_Case_DeepDiveSlides.pdf" target="_blank">SIX Deep Dive Slides</a>
+  <a href="https://github.com/user-attachments/files/19319731/STARTHack_SIX_Case_DeepDiveSlides.2.pdf" target="_blank">SIX Deep Dive Slides</a>
 </p>
 
 
