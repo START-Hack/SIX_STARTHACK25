@@ -1,4 +1,4 @@
-<p align="center"> Innovative Human-AI Interaction for Financial Data Insight </p>
+# <p align="center"> Innovative Human-AI Interaction for Financial Data Insight </p>
 
 ![Image_Github1](https://github.com/user-attachments/assets/3055e359-05a4-42dc-ac6b-e227338ed49c)
 
