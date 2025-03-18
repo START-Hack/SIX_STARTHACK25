@@ -64,3 +64,13 @@ At a minimum, teams are expected to develop clickable mockups that demonstrate u
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
+•	Individual Digital voucher for digitec for a value of CHF 300
+
+•	Individual Gold bar of 1g
+
+•	SIX Goodie bag
+
+•	CEO pitch with Marion Leslie  on April 3 - 12:30 to 13.00
+
+•	Team activity: Museum Escape Room: Crime & Wine (<a href="https://youtu.be/mR3AJkRB2HE" target="_blank">Click here</a>)
+
