@@ -70,7 +70,7 @@ At a minimum, teams are expected to develop clickable mockups that demonstrate u
 
 •	SIX Goodie bag
 
-•	CEO pitch with Marion Leslie  on April 3 - 12:30 to 13.00
+•	Pitch to the SIX Financial Information CEO
 
 •	Team activity: Museum Escape Room: Crime & Wine (<a href="https://youtu.be/mR3AJkRB2HE" target="_blank">Click here</a>)
 
