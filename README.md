@@ -4,7 +4,8 @@
 
 # <p align="center"> Who are we? </p>
 ![Image_Github2](https://github.com/user-attachments/assets/c6f73707-3881-4e26-b60b-aad595c78d69)
-![Image_Github3](https://github.com/user-attachments/assets/5119cecc-8bfb-48c2-9298-7678403b0cc3)
+![image](https://github.com/user-attachments/assets/c8a9e916-fb29-40cf-87c0-3d52cd75b713)
+
 
 
 ## <p align="center"> Case Introduction: </p>
