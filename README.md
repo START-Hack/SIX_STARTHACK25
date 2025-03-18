@@ -64,9 +64,9 @@ At a minimum, teams are expected to develop clickable mockups that demonstrate u
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
-•	Individual Digital voucher for digitec for a value of CHF 300
+•	Digitec Voucher worth of CHF 300 per Person
 
-•	Individual Gold bar of 1g
+• One Gold Bar (1g) per Person
 
 •	SIX Goodie bag
 
