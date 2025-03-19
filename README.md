@@ -31,6 +31,7 @@ At a minimum, teams are expected to develop clickable mockups that demonstrate u
   <a href="https://github.com/user-attachments/files/19319731/STARTHack_SIX_Case_DeepDiveSlides.2.pdf" target="_blank">SIX Deep Dive Slides</a>
 </p>
 
+API: https://idchat-api-containerapp01-dev.orangepebble-16234c4b.switzerlandnorth.azurecontainerapps.io/docs
 
 ## <p align="center"> Judging Criteria: </p>
 ●	Creativity & Innovation (30%) - out of box thinking and innovative use of technology 
